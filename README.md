@@ -25,7 +25,7 @@ Obviamente o conhecimento obtido durante a execução do Coding Dojo é utilizad
 
 Iremos seguir o formato Randori, que é um formato que todos participação. É proposto um problema a ser resolvido e a programação é realizada em apenas uma máquina, por pares. Para esse formato é imprescindível a utilização de TDD e passos de bebê.
 
-- Todos aprovam o seguinte [problema](http://dojopuzzles.com/problemas)
+- Todos aprovam o seguinte [problema randômico](http://dojopuzzles.com/problemas)
 - Programação em pares
 - 1 piloto, 1 co-piloto e platéia
 - Turnos "time-boxed"
